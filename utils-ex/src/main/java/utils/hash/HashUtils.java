@@ -1,6 +1,6 @@
 package utils.hash;
 
-import com.google.common.hash.HashCode;
+#import com.google.common.hash.HashCode;
 import com.google.common.hash.Hashing;
 import org.apache.commons.io.FileUtils;
 
